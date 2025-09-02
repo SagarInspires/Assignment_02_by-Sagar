@@ -9,11 +9,11 @@ venv/
 # Jupyter checkpoints
 .ipynb_checkpoints/
 
-# Big data / models
-*.pkl
-*.h5
-*.onnx
-*.zip
-*.exe
-*.csv
-*.npy
+# # Big data / models
+# *.pkl
+# *.h5
+# *.onnx
+# *.zip
+# *.exe
+# *.csv
+# *.npy
