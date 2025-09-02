@@ -1,0 +1,29 @@
+/* styles.css */
+
+body {
+    background-color: blue;
+    color: #f1f5f9;
+}
+
+.sidebar .sidebar-content {
+    background: #1e293b;
+}
+
+h1, h2, h3 {
+    color: #38bdf8;
+    font-weight: 600;
+}
+
+.card {
+    background: #1e293b;
+    border-radius: 12px;
+    padding: 15px;
+    margin: 10px 0;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.4);
+}
+
+.metric {
+    font-size: 26px;
+    font-weight: bold;
+    color: #38bdf8;
+}
